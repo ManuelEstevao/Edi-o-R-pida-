@@ -1,4 +1,4 @@
-# Mídia Referência — Editor de Logotipo
+# Mídia Referência — Editor de Logotipo em fotos🎨 
 
 Ferramenta web simples e responsiva para aplicar logotipo em lote sobre múltiplas fotos.
 
